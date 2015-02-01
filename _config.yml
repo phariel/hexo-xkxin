@@ -5,7 +5,8 @@
 # Site
 title: 菲利埃爾のBuzz!
 subtitle:
-description:
+description: BUZZ Realm For Phariel!
+favicon: /xkxin.ico
 author: Phil Loves Gloria
 email:
 language:
@@ -13,7 +14,7 @@ face_url: http://ww1.sinaimg.cn/large/4031a60btw1e46xo6xtkqj20500503yt.jpg
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://piscestar.com
+url: http://xkx.in
 root: /
 permalink: :year/:month/:day/:title/
 tag_dir: tags
@@ -24,7 +25,7 @@ permalink_defaults:
 
 # Directory
 source_dir: source
-public_dir: ../static-piscestar
+public_dir: ../static-xkxin
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -88,4 +89,4 @@ deploy:
 # Duoshuo
 duoshuo:
   enable: true
-  shortname: piscestar
+  shortname: xkxin
