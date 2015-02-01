@@ -1,0 +1,3 @@
+[submodule "themes/theme-xkxin"]
+	path = themes/theme-xkxin
+	url = https://github.com/xkxin/hexo-theme-xkxin.git
